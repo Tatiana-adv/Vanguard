@@ -1,0 +1,7 @@
+anime-vanguard/
+├── index.html
+├── style.css
+├── main.js
+├── assets/
+│   └── bg.jpg
+└── vite.config.js
